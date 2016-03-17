@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>IkeCode.Data.Core</id>
-    <version>1.0.0</version>
+    <version>1.0.0.1</version>
     <title>IkeCode.Data.Core</title>
     <authors>Leandro Barral</authors>
     <owners>IkeCode</owners>
@@ -15,7 +15,7 @@
       Projeto com classes utilitarias para trabalhar com banco de dados
     </summary>
     <language>en-US</language>
-    <projectUrl>https://nuget.org/packages/IkeCode.Data.Core.NuGetPackager</projectUrl>
+    <projectUrl>https://nuget.org/packages/IkeCode.Data.Core</projectUrl>
     <iconUrl>https://avatars2.githubusercontent.com/u/16226306</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
